@@ -6,12 +6,9 @@
 
 # Website Preview
   This is a portfolio of my work, including both my personal and academic projects.
-<p align="center"> 
-  <kbd>
-    <a href="https://akshatjalan.github.io/akshat/" target="_blank"><img src="https://github.com/Akshatjalan/akshat/blob/master/assets/img/mine.gif">
-  </a>
-  </kbd>
-</p>
+  
+ ![Alt text](https://github.com/Akshatjalan/akshat/blob/master/assets/img/yeah.png?raw=true "Main Page")
+
 
 :star:  Star me on GitHub — it helps!
 
@@ -35,9 +32,9 @@
 
 
 ## Contact 
- <p align="center">
+ <h3 align="center">
   <code> Akshat Jalan </code>
-</p>
+</h3>
   <p align="center"> 
 
   <a href="https://github.com/Akshatjalan">
