@@ -1,6 +1,6 @@
-<h1 align="center">Personal Portfolio Website </h1>
+<h1 align="center">DevFolio</h1>
 
-<p align="center">This website is an opportunity to demonstrate a portfolio of information about me and to provide further information (via links) about my work.<p>
+<p align="center">This website is an opportunity to demonstrate a <b>Portfolio</b> of information about me and to provide further information (via links) about my work.<p>
 
   ### <code>Live Demo</code> - **[Portfolio Website](https://akshatjalan.github.io/akshat/)**
 
