@@ -485,6 +485,10 @@ section {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
+.skills {
+  background-image: linear-gradient(to left, #eef7ff, #ffffff);
+}
+
 .skills .b {
   text-align: center;
 }
@@ -586,6 +590,9 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio {
+  background-image: linear-gradient(to left, #eef7ff, #ffffff);
+}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
