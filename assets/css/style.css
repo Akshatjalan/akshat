@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -396,8 +396,7 @@ section {
 }
 
 .section-title p {
-  margin-bottom: 0;
-  color: black;
+  font-weight: 600;
 }
 
 /*--------------------------------------------------------------
