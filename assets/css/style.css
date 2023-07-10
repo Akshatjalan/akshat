@@ -91,6 +91,7 @@ h6 {
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
   }
@@ -100,6 +101,7 @@ h6 {
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
   }
@@ -194,6 +196,7 @@ h6 {
   .nav-menu a {
     width: 56px;
   }
+
   .nav-menu a span {
     display: none;
     color: #fff;
@@ -339,10 +342,12 @@ h6 {
   #home {
     text-align: center;
   }
+
   #home h1 {
     font-size: 32px;
     line-height: 36px;
   }
+
   #home p {
     margin-top: 10px;
     font-size: 20px;
@@ -636,6 +641,9 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  padding: 8px;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -784,6 +792,7 @@ section {
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
   }
@@ -793,6 +802,7 @@ section {
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
   }
