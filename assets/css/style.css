@@ -609,7 +609,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: #eef7ff;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -812,7 +812,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
+  background: #eef7ff;
   color: #45505b;
   font-size: 14px;
   text-align: center;
