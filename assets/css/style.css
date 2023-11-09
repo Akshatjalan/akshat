@@ -614,7 +614,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #eef7ff;
+  background: #e4f0fc;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -690,7 +690,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
-  border-left: 1px solid #0563bb;
+  border-left: 1px solid #ffffff;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -709,6 +709,23 @@ section {
 .portfolio .portfolio-title {
   padding-top: 10px;
   text-align: center;
+}
+
+.portfolio-title h5 {
+  font-weight: 600;
+}
+
+.portfolio-stack {
+  display: flex;
+  justify-content: center;
+  gap: 7px;
+}
+
+.portfolio-stack p {
+  background-color: #d3d3d3;
+  color: black;
+  padding: 4px 7px;
+  border-radius: 7px;
 }
 
 /*--------------------------------------------------------------
